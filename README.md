@@ -4,8 +4,7 @@
 
 ## Detalles del HTML (index.html)
 
-1. **Cabecera y Meta Datos**
-   Se utiliza el head por defecto y se vincula con el archivo css "styles.css".
+1. **Head**: Se utiliza el head por defecto y se vincula con el archivo css "styles.css".
 
 2. **Barra de Navegación**
    - Se divide en tres secciones:
